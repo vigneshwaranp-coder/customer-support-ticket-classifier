@@ -1,0 +1,3 @@
+Model,Category Test Accuracy (%),Category Macro F1,Priority Test Accuracy (%),Priority Macro F1,Training Time,Inference Time per Ticket (ms)
+TF-IDF + Logistic Regression,100.0,1.0,76.0,0.6858974358974358,Not recorded,12.949680001474917
+DistilBERT Trainer,100.0,1.0,46.666666666666664,0.21212121212121213,326.81 seconds,381.9671680009924

@@ -1,0 +1,2 @@
+Model,Category Test Accuracy,Category Macro F1,Priority Test Accuracy,Priority Macro F1
+TF-IDF + Logistic Regression,100.0,1.0,76.0,0.6858974358974358
