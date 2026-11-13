@@ -2,3 +2,9 @@
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
+
+# Large DistilBERT model weights
+distilbert_category/model.safetensors
+distilbert_priority/model.safetensors
+final_category_model/model.safetensors
+final_priority_model/model.safetensors
